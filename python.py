@@ -3,3 +3,4 @@ ans = input("Why am I doing this: ")
 print(ans)
 
 print("Have a good one MAN!")
+print("I hope you can get it done!")
