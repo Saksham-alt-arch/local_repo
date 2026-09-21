@@ -6,3 +6,5 @@ print("Have a good one MAN!")
 print("I hope you can get it done!")
 
 print("I love my mother.")
+print("I love my father Ramchandra Gautam.")
+print("I love my mother Kabita Gautam.")
